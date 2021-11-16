@@ -74,7 +74,7 @@ const FormPractice = () => {
 					// 			value={values.correo}
 					// 		/>
 					// 	</div>
-					// 	{touched?.correo && touched?.correo && errors?.correo &&  <span style={{color: 'red', fontWeight: 'bold'}}> {errors?.correo } </span>}
+					// 	{touched?.correo && errors?.correo && <span style={{color: 'red', fontWeight: 'bold'}}> {errors?.correo } </span>}
 					// 	<button type="submit" className="submit-button" >
 					// 		Enviar
 					// 	</button>
